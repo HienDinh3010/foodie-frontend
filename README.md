@@ -5,11 +5,18 @@ Food Recipe: Login, create new user, view list of recipes from all user, create 
 **Class Diagram**
 ![Class Diagram](https://github.com/HienDinh3010/foodie-frontend/blob/master/screenshots/image.png)
 
-**MongoDB**
+**MongoDB Schema**
 ![Database](https://github.com/HienDinh3010/foodie-frontend/blob/master/screenshots/image%20copy.png)
 
 **MERN Architecture**
 ![MERN](https://github.com/HienDinh3010/foodie-frontend/blob/master/screenshots/mongodb.png)
+
+MERN is a pre-built technology stack based on JavaScript technologies. MERN stands for MongoDB, Express, React, Node, after the four key technologies that make up the stack.
+
+MongoDB — document database
+Express(.js) — Node.js web framework
+React(.js) — a client-side JavaScript framework
+Node(.js) — the premier JavaScript web server (runtime)
 
 REFERENCE LINK:
 MongoAtlas: https://cloud.mongodb.com/v2/6629c3257909dd2050245bfa#/metrics/replicaSet/6629c4cdb0a26c6f6674f1eb/explorer/FoodieDoodie/recipes/find <br>
