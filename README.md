@@ -1,5 +1,7 @@
 ****Food Recipe App Using MERN Stack****
 
+https://foodie-frontend.azurewebsites.net/dashboard
+
 Food Recipe: Login, create new user, view list of recipes from all user, create a new recipe
 
 #<b> Functionality and User experience </b>
