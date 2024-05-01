@@ -5,13 +5,13 @@ https://foodie-frontend.azurewebsites.net/dashboard
 Food Recipe: Login, create new user, view list of recipes from all user, create a new recipe
 
 #<b> Functionality and User experience </b>
-User can create an account using email and password.
-If user does not have account yet, he/she will also use login form to register for account.
-If user have account, he/she will be directed to Dashboard page.
-Dashboard page has buttons: Home, Add Recipe, My Recipe, Log out 
-User clicks on Home will show list of recipe created by all users of application
-User clicks on Add recipe will show a form to add a new recipe.
-User clicks on My recipe will show list of recipes created by this user.
+User can create an account using email and password. <br>
+If user does not have account yet, he/she will also use login form to register for account. <br>
+If user have account, he/she will be directed to Dashboard page. <br>
+Dashboard page has buttons: Home, Add Recipe, My Recipe, Log out  <br>
+User clicks on Home will show list of recipe created by all users of application <br>
+User clicks on Add recipe will show a form to add a new recipe. <br>
+User clicks on My recipe will show list of recipes created by this user. <br>
 User clicks log out will re-direct to login page.
 
 **Class Diagram**
